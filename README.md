@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Share my profile with your friends and family
 
--   [Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20Kartavya%20Patel's%20GitHub%20profile&url=https%3A%2F%2Fgithub.com%2Fpatelka2211&hashtags=KP "Share on Twitter")
+-   [Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20Kartavya%20Patel's%20%40GitHub%20profile&url=https%3A%2F%2Fgithub.com%2Fpatelka2211&hashtags=KP "Share on Twitter")
 -   [Share on Facebook](https://www.facebook.com/sharer/sharer.php?t=Check%20out%20Kartavya%20Patel's%20GitHub%20profile&u=https%3A%2F%2Fgithub.com%2Fpatelka2211 "Share on Facebook")
 -   [Share on WhatsApp](https://api.whatsapp.com/send?text=Check%20out%20Kartavya%20Patel's%20GitHub%20profile%0Ahttps%3A%2F%2Fgithub.com%2Fpatelka2211 "Share on WhatsApp")
 -   [Share on LinkedIn](https://www.linkedin.com/cws/share?url=Check%20out%20Kartavya%20Patel's%20GitHub%20profile%0Ahttps%3A%2F%2Fgithub.com%2Fpatelka2211 "Share on LinkedIn")
