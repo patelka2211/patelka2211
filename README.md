@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 ## Top languages used by me
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelka2211&layout=compact)](https://github.com/patelka2211)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=patelka2211)](https://github.com/patelka2211)
