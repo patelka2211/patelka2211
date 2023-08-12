@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![](./welcome-to-the-kpverse.svg)](https://kpverse.in/ "KPVERSE")
 
-<div align="center"><a href="patelka2211@gmail.com">Email</a> · <a href="https://x.com/thekpverse">X (Twitter)</a> · <a href="https://linkedin.com/in/kartavyapatel">LinkedIn</a> · <a href="https://youtube.com/@thekpverse">YouTube</a> · <a href="https://mastodon.social/@kpverse">Mastodon</a></div
+<div align="center"><a href="mailto:patelka2211@gmail.com">Email</a> · <a target="_blank" href="https://x.com/thekpverse">X (Twitter)</a> · <a target="_blank" href="https://linkedin.com/in/kartavyapatel">LinkedIn</a> · <a target="_blank" href="https://youtube.com/@thekpverse">YouTube</a> · <a target="_blank" href="https://mastodon.social/@kpverse">Mastodon</a></div>
