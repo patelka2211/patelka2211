@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <!-- ||Share with your friends and family| -->
 
-![](./welcome-to-the-kpverse.svg)
+[![](./welcome-to-the-kpverse.svg)](https://kpverse.in/ "KPVERSE")
 
 <div align="center"><a href="patelka2211@gmail.com">Email</a> · <a href="https://x.com/thekpverse">X (Twitter)</a> · <a href="https://linkedin.com/in/kartavyapatel">LinkedIn</a> · <a href="https://youtube.com/@thekpverse">YouTube</a> · <a href="https://mastodon.social/@kpverse">Mastodon</a></div
