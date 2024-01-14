@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- |Facebook|Whatsapp| -->
-
-<!-- ||Share with your friends and family| -->
 
 [![](./welcome-to-the-kpverse.svg)](https://kpverse.in/ "KPVERSE")
 
